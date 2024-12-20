@@ -1,0 +1,16 @@
+main {
+            width: 600px;
+            height: 200px;
+            padding: 10px;
+            background: darkgoldenrod;
+        }
+        
+        h1 {
+            color: darkred;
+            border-bottom: 2px dotted darkred;
+        }
+        
+        p {
+            font-family: sans-serif;
+            color: orange;
+        }
